@@ -1,0 +1,6 @@
+{
+  "name": "Shinovika Academy",
+  "description": "Online learning & education platform: CBSE and ICSE live online tuitions, mentored data analytics courses in India & job-oriented AWS and Salesforce training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
